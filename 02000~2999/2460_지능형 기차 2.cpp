@@ -1,8 +1,8 @@
 /**
  *    BOJ 2460
- *    - Áö´ÉÇü ±âÂ÷ 2
+ *    - ì§€ëŠ¥í˜• ê¸°ì°¨ 2
  *    author:  phcdream
- *    created: ¿ÀÀü 4:13 2020-12-21
+ *    created: ì˜¤ì „ 4:13 2020-12-21
 **/
 
 #include <iostream>

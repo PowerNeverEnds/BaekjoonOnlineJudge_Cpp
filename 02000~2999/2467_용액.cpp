@@ -1,8 +1,8 @@
 /**
  *    BOJ 2467
- *    - ¿ë¾×
+ *    - ìš©ì•¡
  *    author:  phcdream
- *    created: ¿ÀÈÄ 4:52 2020-11-30
+ *    created: ì˜¤í›„ 4:52 2020-11-30
  */
 
 #include <iostream>
