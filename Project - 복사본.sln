@@ -45,8 +45,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20000~20999", "20000~20999\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2020 경북대학교 Goricon Open Contest", "2020 경북대학교 Goricon Open Contest\2020 경북대학교 Goricon Open Contest.vcxproj", "{97EE9D48-6CE4-470E-9565-3AF3B41AB91F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02000~2999", "02000~2999\02000~2999.vcxproj", "{09F152C2-ECF1-4256-AB40-381962DD7E3C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -223,14 +221,6 @@ Global
 		{97EE9D48-6CE4-470E-9565-3AF3B41AB91F}.Release|x64.Build.0 = Release|x64
 		{97EE9D48-6CE4-470E-9565-3AF3B41AB91F}.Release|x86.ActiveCfg = Release|Win32
 		{97EE9D48-6CE4-470E-9565-3AF3B41AB91F}.Release|x86.Build.0 = Release|Win32
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Debug|x64.ActiveCfg = Debug|x64
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Debug|x64.Build.0 = Debug|x64
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Debug|x86.ActiveCfg = Debug|Win32
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Debug|x86.Build.0 = Debug|Win32
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Release|x64.ActiveCfg = Release|x64
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Release|x64.Build.0 = Release|x64
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Release|x86.ActiveCfg = Release|Win32
-		{09F152C2-ECF1-4256-AB40-381962DD7E3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
