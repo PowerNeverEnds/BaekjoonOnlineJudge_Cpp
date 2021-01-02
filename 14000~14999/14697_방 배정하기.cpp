@@ -1,13 +1,13 @@
 /**
  *    BOJ 14697
- *    - ¹æ ¹èÁ¤ÇÏ±â
+ *    - Â¹Ã¦ Â¹Ã¨ÃÂ¤Ã‡ÃÂ±Ã¢
  *    author:  phcdream
- *    created: ¿ÀÀü 12:56 2020-12-10
+ *    created: Â¿Ã€Ã€Ã¼ 12:56 2020-12-10
 **/
 
 #include <iostream>
 
-typedef long long ll;
+typedef long long ll; 
 
 using namespace std;
 
